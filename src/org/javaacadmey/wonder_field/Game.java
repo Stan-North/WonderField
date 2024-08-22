@@ -245,7 +245,7 @@ public class Game {
     }
 
     public String chooseTheSuperGift() {
-        int number = (int) ((Math.random() * 4) + 1);
+        int number = (int) ((Math.random() * 4));
         return SuperGiftsEnum.values()[number].getName();
     }
 

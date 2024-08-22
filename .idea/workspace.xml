@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a646ddf-7f94-45ba-8937-f0902252525b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonder_field.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4a646ddf-7f94-45ba-8937-f0902252525b" name="Changes" comment="Поле чудес" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stan-North"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Stan-North/WonderField.git",
@@ -51,6 +50,7 @@
     "Application.Tableau.executor": "Run",
     "Application.test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable"
   }
@@ -112,14 +112,35 @@
       <option name="presentableId" value="Default" />
       <updated>1721591702984</updated>
     </task>
+    <task id="LOCAL-00001" summary="Поле чудес">
+      <option name="closed" value="true" />
+      <created>1724359933739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724359933739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Поле чудес">
+      <option name="closed" value="true" />
+      <created>1724360039085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724360039085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Поле чудес" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поле чудес" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/javaacadmey/wonder_field/Game.java</url>
-          <line>126</line>
+          <line>125</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>

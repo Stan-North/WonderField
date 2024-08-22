@@ -160,7 +160,7 @@ public class Player {
 
     public void chooseGifts() {
         GiftsEnum giftsEnum;
-        System.out.println("Поздравляем, вы проходите в супе игру");
+        System.out.println("Поздравляем, вы проходите в супер игру");
         System.out.println("Ваше количество очков: " + this.getScore());
         System.out.println("Вы можете выбрать следующие призы из списка:");
         for (GiftsEnum giftsEnum1 : GiftsEnum.values()) {
