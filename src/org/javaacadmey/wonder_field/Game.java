@@ -2,7 +2,6 @@ package org.javaacadmey.wonder_field;
 
 import org.javaacadmey.wonder_field.player.Player;
 import org.javaacadmey.wonder_field.player.PlayerAnswer;
-import org.javaacadmey.wonder_field.player.SecretBox;
 
 import java.util.Scanner;
 

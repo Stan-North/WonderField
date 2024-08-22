@@ -3,8 +3,7 @@ package org.javaacadmey.wonder_field.player;
 import org.javaacadmey.wonder_field.Drum;
 import org.javaacadmey.wonder_field.Game;
 import org.javaacadmey.wonder_field.GiftsEnum;
-
-import java.util.*;
+import org.javaacadmey.wonder_field.SecretBox;
 
 public class Player {
     private final String playerName;
